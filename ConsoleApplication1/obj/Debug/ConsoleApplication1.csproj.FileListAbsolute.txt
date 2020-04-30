@@ -1,0 +1,20 @@
+c:\users\evn.14\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\evn.14\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+Z:\саод\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+Z:\саод\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+Z:\саод\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+Z:\саод\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+Z:\саод\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+Z:\саод\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+G:\2 курс\2 Семестр\САОД\1 Задание (Стеки)\2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\2 курс\2 Семестр\САОД\1 Задание (Стеки)\2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\2 курс\2 Семестр\САОД\1 Задание (Стеки)\2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+G:\2 курс\2 Семестр\САОД\1 Задание (Стеки)\2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\2 курс\2 Семестр\САОД\1 Задание (Стеки)\2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\2 курс\2 Семестр\САОД\1 Задание (Стеки)\2\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\1 Задание (Стеки)\2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\1 Задание (Стеки)\2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\1 Задание (Стеки)\2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\1 Задание (Стеки)\2\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\1 Задание (Стеки)\2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\1 Задание (Стеки)\2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
